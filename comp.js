@@ -6,7 +6,7 @@ var company=[
 {id:1,name:"user",description:"user details"},
 {id:2,name:"company",description:"company details"},
 {id:3,name:"employee",description:"employee details"},
-{id:4,name:"registeredemployee",description:"registeredemployee"},
+{id:4,name:"branch",description:"branch details"},
 
 ]
 res.send(company);

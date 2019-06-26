@@ -1,0 +1,23 @@
+Problem Definition--
+1.Contos is a multinational company
+2.Company has 12 offices in world.
+3.Contains Corporate Customers Accounting 
+4.they want to build and host website for employes
+5.Corporate Customer Accounting is a Information System useful employees
+6.Google cloud platfrom plays imp role to host this system.
+
+
+
+
+Functional Requirement:
+We need nodejs,expressjs to host the server
+1. Empoye Login
+2.to accesss the account of corporate customers
+6.Google Cloud Platfrom login
+
+Non-Functional Requirement
+1.Security
+2.Performance
+3.Scalability
+4.Reliability
+5.
